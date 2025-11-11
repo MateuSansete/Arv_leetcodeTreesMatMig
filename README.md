@@ -36,41 +36,41 @@ O objetivo é compreender o funcionamento, a implementação e a aplicação pr�
 
 ## 102. Binary Tree Level Order Traversal (Médio)
 
-**Autor:** Miguel Arthur Oliveira de Lima  
+**Autor:** Miguel Arthur   
 
 **Conceito:**  
 O objetivo é percorrer uma árvore binária **nível por nível (level order traversal)** — ou seja, visitar todos os nós de um nível antes de avançar para o próximo.  
 A abordagem clássica utiliza uma **fila (queue)** e a técnica de **busca em largura (BFS)** para organizar o percurso.
 
-📘 **Técnicas Utilizadas:**  
+ **Técnicas Utilizadas:**  
 - Estrutura de dados: Fila  
 - Algoritmo: BFS (Breadth-First Search)  
 
-[🔗 Link do Exercício no LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+[ Link do Exercício no LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
 ---
 
 ## 124. Binary Tree Maximum Path Sum (Difícil)
 
-**Autor:** Miguel Arthur Oliveira de Lima  
+**Autor:** Miguel Arthur 
 
 **Conceito:**  
 Neste problema, busca-se o **caminho com a soma máxima** dentro de uma árvore binária.  
 O caminho pode começar e terminar em qualquer nó.  
 A solução utiliza **busca em profundidade (DFS)** e **programação dinâmica**, atualizando recursivamente a soma máxima global.
 
-📘 **Técnicas Utilizadas:**  
+ **Técnicas Utilizadas:**  
 - Recursão com DFS  
 - Cálculo de caminhos parciais  
 - Atualização global da soma máxima  
 
-[🔗 Link do Exercício no LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+[ Link do Exercício no LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 ---
 
 ## 295. Find Median from Data Stream (Médio)
 
-**Autor:** Mateus Bastos dos Santos  
+**Autor:** Mateus Bastos 
 
 **Conceito:**  
 O desafio é projetar uma estrutura de dados que permita **inserir números continuamente** e **encontrar a mediana em tempo eficiente**.  
@@ -81,13 +81,13 @@ A estratégia ideal utiliza **duas heaps** (máx-heap e min-heap) para manter as
 - Balanceamento dinâmico após inserções  
 - Cálculo eficiente da mediana  
 
-[🔗 Link do Exercício no LeetCode](https://leetcode.com/problems/find-median-from-data-stream/)
+[ Link do Exercício no LeetCode](https://leetcode.com/problems/find-median-from-data-stream/)
 
 ---
 
 ## 715. Range Module (Difícil)
 
-**Autor:** Mateus Bastos dos Santos  
+**Autor:** Mateus Bastos 
 
 **Conceito:**  
 O problema consiste em implementar um **módulo de intervalos (Range Module)** que permita **adicionar**, **remover** e **consultar** faixas numéricas.  
