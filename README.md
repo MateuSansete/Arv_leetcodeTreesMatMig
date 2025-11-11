@@ -124,29 +124,25 @@ A solução eficiente faz uso de **árvores de segmentos (Segment Trees)** ou **
 
 ### Exercício 102. Binary Tree Level Order Traversal
 
-![LevelOrder](assets/miguel1.1.png)  
-![LevelOrder](assets/miguel1.2.png)
+![LevelOrder](assets/miguel.1.png)  
 
 ---
 
 ### Exercício 124. Binary Tree Maximum Path Sum
 
-![MaxPathSum](assets/miguel2.1.png)  
-![MaxPathSum](assets/miguel2.2.png)
+![MaxPathSum](assets/miguel.2.png)  
 
 ---
 
 ### Exercício 295. Find Median from Data Stream
 
-![MedianStream](assets/mateus1.1.png)  
-![MedianStream](assets/mateus1.2.png)
+![MedianStream](assets/mateus1.png)  
 
 ---
 
 ### Exercício 715. Range Module
 
 ![RangeModule](assets/mateus2.1.png)  
-![RangeModule](assets/mateus2.2.png)
 
 ---
 
