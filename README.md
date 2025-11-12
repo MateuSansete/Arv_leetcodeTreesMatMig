@@ -19,7 +19,7 @@ O objetivo é compreender o funcionamento, a implementação e a aplicação pr�
 
 ## Exercícios Selecionados
 
-> Foram selecionados **2 exercícios de nível Médio** e **2 exercícios de nível Difícil**, todos relacionados ao tema de Árvores (Trees) e suas aplicações.
+> Foram selecionados **1 exercícios de nível Médio** e **3 exercícios de nível Difícil**, todos relacionados ao tema de Árvores (Trees) e suas aplicações.
 
 | Exercício | Dificuldade | Estrutura Principal |
 |-----------|-------------|---------------------|
