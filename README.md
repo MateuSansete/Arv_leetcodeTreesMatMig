@@ -142,7 +142,7 @@ A solução eficiente faz uso de **árvores de segmentos (Segment Trees)** ou **
 
 ### Exercício 715. Range Module
 
-![RangeModule](assets/mateus2.1.png)  
+![RangeModule](assets/mateus2.png)  
 
 ---
 
@@ -159,8 +159,8 @@ A solução eficiente faz uso de **árvores de segmentos (Segment Trees)** ou **
     </tr>
     <tr>
       <td align="center">
-        <a href="https://www.youtube.com/embed/ClOtp8-tTpA?si=eQHnEDxUZ2xstfgJ" target="_blank">
-          Apresentação — Árvores e Estruturas de Dados — EDA II — UnB FCTE
+        <a href="https://www.youtube.com/embed/W_YO7TrVseg" target="_blank" target="_blank">
+          Apresentação — Árvores - Estruturas de Dados — EDA II — UnB FCTE
         </a>
       </td>
     </tr>
