@@ -113,7 +113,7 @@ A solução eficiente faz uso de **árvores de segmentos (Segment Trees)** ou **
 2. Ou clique diretamente nos links fornecidos acima.
 
 ### Passo 3: Submeter o Código
-> 1. Selecione **C++** como linguagem para os exercícios 102 e 124, e **C** para os exercícios 295 e 715.  
+> 1. Selecione **C++** como linguagem para os exercícios 01 e 02, e **C** para os exercícios 03 e 04.  
 > 2. Copie o código do repositório local.  
 > 3. Cole no editor do LeetCode.  
 > 4. Clique em **Run** e depois em **Submit** para validar sua solução.
