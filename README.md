@@ -25,7 +25,7 @@ O objetivo é compreender o funcionamento, a implementação e a aplicação pr�
 |-----------|-------------|---------------------|
 | [01. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Médio | Árvore Binária / BFS |
 | [02. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Difícil | Árvore Binária / DFS / Programação Dinâmica |
-| [03. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Médio | Heaps / Árvores de Busca Balanceadas |
+| [03. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Difícil | Heaps / Árvores de Busca Balanceadas |
 | [04. Range Module](https://leetcode.com/problems/range-module/) | Difícil | Interval Tree / Segment Tree / Mapas Ordenados |
 
 ---
@@ -146,9 +146,9 @@ A solução eficiente faz uso de **árvores de segmentos (Segment Trees)** ou **
 
 ---
 
-## 🎥 Apresentação em Vídeo
+## 🎥 Vídeo
 
-<h2 align="center">📽️ Apresentação – Árvores e Estruturas Avançadas</h2>
+<h2 align="center"> Apresentação – Árvores e Estruturas Avançadas</h2>
 
 <p align="center">Explicamos todos os códigos implementados na plataforma LeetCode, detalhando a lógica de cada exercício e sua relação com as estruturas de dados estudadas em EDA II.</p>
 
